@@ -22,7 +22,7 @@ public class Main {
         System.out.println("Memory Store: " + result);
 
         calculator.memoryRecall(num1,num2);
-        System.out.println("Memory Recal: " + result);
+        System.out.println("Memory Recall: " + result);
 
         result = calculator.percent(num1,num2);
         System.out.println("Percent: " + result);
