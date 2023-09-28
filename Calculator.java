@@ -14,7 +14,7 @@ public class Calculator {
     public void memoryStore(double value, double num2) {
         memory = value;
     }
-    public double memoryRecall() {
+    public double memoryRecall(double num1, double num2) {
         return memory;
     }
     public double percent(double value, double percentage) {

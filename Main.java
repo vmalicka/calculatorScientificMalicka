@@ -21,6 +21,9 @@ public class Main {
         calculator.memoryStore(num1,num2);
         System.out.println("Memory Store: " + result);
 
+        calculator.memoryRecall(num1,num2);
+        System.out.println("Memory Recal: " + result);
+
         result = calculator.percent(num1,num2);
         System.out.println("Percent: " + result);
 
