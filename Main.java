@@ -79,7 +79,7 @@ public class Main {
                             System.out.println("Memory Recall: " + memoryRecall);
                             break;
                         case 5:
-// Return to the main menu
+// Return to the Main
                             break;
                         default:
                             System.out.println("Invalid choice.");
